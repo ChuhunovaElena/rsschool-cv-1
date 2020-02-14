@@ -1,8 +1,8 @@
 ## Konstantin Agafonov
 
 ### Contacts
-__Email__: kagafono@gmail.com
-__Skype__: kagafon
+- __Email__: kagafono@gmail.com
+- __Skype__: kagafon
 
 ### Summary
 *I wish you a merry Cristmas and Happy New Year.* And finish this task.
