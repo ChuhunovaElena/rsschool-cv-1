@@ -1,2 +1,2 @@
 # rsschool-cv
-Task for RS School
+[CV](https://kagafon.github.io/rsschool-cv/cv)
