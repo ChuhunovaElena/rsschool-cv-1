@@ -1,14 +1,16 @@
-##Konstantin Agafonov##
+## Konstantin Agafonov
 
-###Contacts###
+### Contacts
 __Email__: kagafono@gmail.com
 __Skype__: kagafon
-###Summary###
+
+### Summary
 *I wish you a merry Cristmas and Happy New Year.* And finish this task.
-###Skills###
+
+### Skills
 C/C++, C#, .NET, JS, Python, SQL...
 
-###Code samples###
+### Code samples
 ```python
 class DetailsView(DataTypeDataView):
     def get_response(self, data, report_snapshot, report_data_type):
@@ -18,7 +20,8 @@ class DetailsView(DataTypeDataView):
         
         return JsonResponse(data= {'columns': columns, 'data': response_data}, safe=False)
 ```
-###Education###
+### Education
 NN Technical University
-###English###
+
+### English
 Upper-intermediate, I hope
